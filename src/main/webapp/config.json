@@ -1,0 +1,13 @@
+{
+  "templates" : [ {
+    "id" : "Main",
+    "name" : "Main",
+    "description" : "Main template",
+    "category" : "Social",
+    "keywords" : "",
+    "published" : true,
+    "type" : "page",
+    "thumbnail" : "4631_frozen.jpg",
+    "screenshots" : [ "manart.jpg", "dices.jpg" ]
+  } ]
+}

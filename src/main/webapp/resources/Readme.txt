@@ -1,0 +1,1 @@
+This directory contains the resources(thumbnails, screenshots) of the templateBundle.
