@@ -1,5 +1,6 @@
 [ {
   "name" : "material",
-  "version" : "2.8",
-  "artifactType" : "THEME"
+  "version" : "3.9",
+  "artifactType" : "THEME",
+  "artifactDependencyList" : null
 } ]
