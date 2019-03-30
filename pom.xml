@@ -290,8 +290,9 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.lib.directory>${basedir}/lib</project.lib.directory>
         <profile.props.file>development.properties</profile.props.file>
-        <spring.version>4.3.14.RELEASE</spring.version>
-        <spring.security.version>4.2.4.RELEASE</spring.security.version>
-        <wavemaker.studio.version>9.4.0.1.6415</wavemaker.studio.version>
+        <spring.version>5.1.4.RELEASE</spring.version>
+        <spring.security.version>5.0.8.RELEASE</spring.security.version>
+        <wavemaker.studio.version>9.9.9.6723</wavemaker.studio.version>
+        <wavemaker.studio.release.version>10.0.0</wavemaker.studio.release.version>
     </properties>
 </project>
